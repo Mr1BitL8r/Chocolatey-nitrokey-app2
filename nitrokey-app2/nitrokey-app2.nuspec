@@ -12,7 +12,7 @@
     <title>Nitrokey App 2</title>
     <authors>Nitrokey</authors>
     <projectUrl>https://github.com/Nitrokey/nitrokey-app2</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/Mr1BitL8r/Chocolatey-nitrokey-app2@main/nitrokey-app2/icon/red_nitrokey-app-icon.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/Nitrokey/nitrokey-app2@main/nitrokeyapp/ui/icons/red_nitrokey-app-icon.svg</iconUrl>
     <copyright>2024 Nitrokey GmbH</copyright>
     <licenseUrl>https://github.com/Nitrokey/nitrokey-app2?tab=Apache-2.0-1-ov-file#readme</licenseUrl>
     <tags>nitrokey-app2</tags>
