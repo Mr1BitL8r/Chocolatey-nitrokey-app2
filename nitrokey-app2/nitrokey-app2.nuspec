@@ -19,6 +19,10 @@
     <summary>This application allows to manage Nitrokey 3 devices.</summary>
     <description>Nitrokey App 2 is the graphical application for Nitrokey 3 devices.</description>
     <releaseNotes>https://github.com/Nitrokey/nitrokey-app2/releases</releaseNotes>
+    <!-- <mailingListUrl></mailingListUrl> -->
+    <docsUrl>https://docs.nitrokey.com/software/nk-app2/</docsUrl>
+    <bugTrackerUrl>https://github.com/Nitrokey/nitrokey-app2/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/Nitrokey/nitrokey-app2</projectSourceUrl>
     <!-- =============================== -->      
 
   </metadata>
