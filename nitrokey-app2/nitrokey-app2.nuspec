@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>nitrokey-app2</id>
+    <version>2.3.0</version>
+    <packageSourceUrl>https://github.com/Mr1BitL8r/Chocolatey-nitrokey-app2</packageSourceUrl>
+    <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
+    <owners>Mr1BitL8r</owners>
+    <!-- ============================== -->
+
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <title>Nitrokey App 2</title>
+    <authors>Nitrokey</authors>
+    <projectUrl>https://github.com/Nitrokey/nitrokey-app2</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/Nitrokey/nitrokey-app2@main/nitrokeyapp/ui/icons/red_nitrokey-app-icon.svg</iconUrl>
+    <copyright>2024 Nitrokey GmbH</copyright>
+    <licenseUrl>https://github.com/Nitrokey/nitrokey-app2?tab=Apache-2.0-1-ov-file#readme</licenseUrl>
+    <tags>nitrokey-app2</tags>
+    <summary>This application allows to manage Nitrokey 3 devices.</summary>
+    <description>Nitrokey App 2 is the graphical application for Nitrokey 3 devices.</description>
+    <releaseNotes>https://github.com/Nitrokey/nitrokey-app2/releases</releaseNotes>
+    <!-- =============================== -->      
+
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
