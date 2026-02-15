@@ -1,8 +1,8 @@
-## Chocolatey community package for Synology Note Station Client
-This is just a [Chocolatey community](https://community.chocolatey.org/) package for installing and uninstalling the Synology Note Station Client on Windows.
+## Chocolatey community package for Nitrokey App 2
+This is just a [Chocolatey community](https://community.chocolatey.org/) package for installing and uninstalling the Nitrokey App 2 on Windows.
 
 ## How to upgrade for a newer version
-If there is a new version available of the Synology Note Station Client, which you can e.g. find at https://www.synology.com/de-de/releaseNote/NoteStationClient please perform the following steps:
+If there is a new version available of the Nitrokey App 2, which you can e.g. find at https://github.com/Nitrokey/nitrokey-app2 please perform the following steps:
 1. Navigate into the _sub_directory: **nitrokey-app2/tools**
 2. Adjust the file **chocolateyinstall.ps1**, so that entries
     * **$url64** is set to the download URL of the 64-bit Setup.exe
